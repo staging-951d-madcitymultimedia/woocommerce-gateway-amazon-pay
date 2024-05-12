@@ -50,7 +50,7 @@
     "@woocommerce/eslint-plugin": "^1.1.0",
     "@wordpress/babel-plugin-makepot": "^4.2.0",
     "@wordpress/babel-preset-default": "^6.3.1",
-    "@wordpress/scripts": "^13.0.2",
+    "@wordpress/scripts": "^27.8.0",
     "babel": "^6.5.2",
     "babel-cli": "^6.14.0",
     "babel-eslint": "^7.0.0",
@@ -65,7 +65,7 @@
     "eslint-config-wpcalypso": "^0.5.0",
     "eslint-plugin-wpcalypso": "^2.0.0",
     "clean-css-cli": "^4.3.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^9.0.0",
     "node-wp-i18n": "~1.2.3",
     "uglify-js": "^3.6.0",
     "webpack": "^4.46.0"
